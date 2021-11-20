@@ -1,0 +1,52 @@
+<html>
+        <head>
+                <title> Сайт </title>
+                <h1 style = "background-color : red; font-family: cursive; text-align: center; font-size:50px; ">Дубаи</h1>
+        </head>
+        <body style = "background-color : darkblue;">
+            <header>
+                <p><a href="#about" style="color :red;">Рекорды</a></p>
+                <p><a href="#neboskreb" style = "color: red;">Шпиль</a></p>
+                <p><a href="#bashnya" style = "color : red;">Бурдж-Халифа</a></p>
+                <p><a href="#facty" style = "color :red;">Факты</a></p>
+                <p><a href="#vikipedia" style = "color :red;">Википедия</a></p>
+                <p><a href = "#bilet" style = "color:red;">Авиарейсы</a></p>
+            </header>
+            <main>
+                <p style ="background-color:aquamarine ; font-size: 25px " >Дубай - город в ОАЭ ( Обьеденённых Арабских Эмиратах). Он один из самых туристических  городов очень много раз поподал в книгу рекордов Гинеса. Это самое образованое место на планете.</p>
+                <h1 id = "about"style = "background-color : red; text-align:center; font-family:cursive; font-size:50px;">Рекорды</h1>
+            <p style ="background-color:aquamarine ; font-size: 25px " >
+                <table  style = "border :2px solid black">
+                    <tr>
+                <td>1.Самое высокое здание</td>
+                    </tr>
+                    <tr>
+                <td>2.Самый большой ТЦ </td>
+                    </tr>
+                    <tr>
+                <td>3.Самый большой аквариум</td>
+                    </tr>
+                    <tr>
+                <td>4.Самый большой дом</td>
+                    </tr>
+                    <tr>
+                <td>5.Самый экологичный</td>
+                    </tr>
+                    <tr>
+                <td>6.Самый безопасный</td>
+                    </tr>
+                    <tr>
+                <td>И много другого!</td>
+                    </tr>
+                    </table>
+                    <h1 id = "neboskreb" style = "background-color : red; font-family: cursive; text-align:center; font-size: 50px">Шпиль</h1>
+                <p style = "background-color : aquamarine; font-family :cursive; font-size : 25px;"> В новый год люди за сутки собираются возле Бурдж-Халифы что-бы посмотреть салют который очень много раз попадал в книгу рекордов Гинеса. <a href ="https://youtu.be/NMMvytD3hD0 "style="color:red;">Смотреть салют 2018-2019.</a></p>
+                <img id = "bashnya" src = "https://24tv.ua/resources/photos/news/1200x675_DIR/202108/1720895.jpg" width = "700px" height="500px">
+                <h1 id = "facty" style ="background-color :red; text-align:center; font-family:cursive;font-size:50px;">Факты</h1>
+                <p style ="background-color :aquamarine; font-family : cursive;font-size:25px;">Раньше в 1998 году был только 1 небоскрёб на главной улице. Позже они нашли нефть. Из-за неё это самый промышленный город. в 2018 году получение нефти из горных пород составляет 5%, a туризм - 25%. Там очень жаркий климат. Зимой там +20 минимум, а летом минимум +35.</p> 
+                <h1 id = "vikipedia" style ="background-color :red; text-align:center; font-family:cursive;font-size:50px;">Википедия</h1>
+                <p style="background-color:aquamarine; font-family:cursive; font-size: 25px;">Хочешь узнать больше? Нажми <a href ="https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%B0%D0%B9" style = "color:black"> сюда!</a></p>
+                <h1 id = "bilet" style = "background-color :red; font-family:cursive; font-size:50px; text-align:center;">Авиарейсы</h1>
+          <p style = "background-color : aquamarine; font-family:cursive;font-size:25px">Хочешь побывать там в реальной жизни, а не во снах? Нажми <a href = "https://www.google.com/search?q=%D0%90%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%D1%8B+%D0%B2+%D0%94%D1%83%D0%B1%D0%B0%D0%B8&oq=%D0%90%D0%B2%D0%B8%D0%B0%D1%80%D0%B5%D0%B9%D1%81%D1%8B+%D0%B2+%D0%94%D1%83%D0%B1%D0%B0%D0%B8&aqs=chrome..69i57j0i22i30l5.19436j1j15&sourceid=chrome&ie=UTF-8" style = "color :black;">сюда!</a></p>      
+    </main>
+    </html>
